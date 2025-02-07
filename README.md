@@ -40,6 +40,7 @@ BOM(Bill of Materials) Business Analyst Case Study Solution using Python, Pandas
 
 - The low retention rate suggests that customers are not returning for repeat purchases.
  **Suggestions:**
+  
 **1. Gamification & Loyalty Programs**
 
 - Introduce tier-based rewards (Silver, Gold, Platinum) based on repeat purchases.
